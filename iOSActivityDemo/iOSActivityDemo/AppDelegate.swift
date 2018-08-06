@@ -7,6 +7,7 @@
 //
 
 // 关于实现HandOff，可以参照 https://www.raywenderlich.com/84174/ios-8-handoff-tutorial
+// 关于 Core Spotlight 提供的搜索，可以参照 https://code.tutsplus.com/tutorials/ios-9-introducing-search-apis--cms-24375
 
 import UIKit
 
