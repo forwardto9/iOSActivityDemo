@@ -6,6 +6,8 @@
 //  Copyright © 2018 TEG of Tencent. All rights reserved.
 //
 
+// 关于实现HandOff，可以参照 https://www.raywenderlich.com/84174/ios-8-handoff-tutorial
+
 import UIKit
 
 @UIApplicationMain
